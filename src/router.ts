@@ -4,7 +4,7 @@ import { initSelect } from "./pages/select";
 import { initResultado } from "./pages/resultado";
 import { initSelectEnd } from "./pages/select-end";
 
-const BASE_PATH = "desafio5-piedrapapeltijera";
+const BASE_PATH = "/desafio5-piedrapapeltijera";
 
 function isGithubPages() {
   return location.host.includes("github.io");
