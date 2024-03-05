@@ -32,7 +32,7 @@ export function initResultado(params) {
 
   const reiniciarButtonEl = div.querySelector(".button-reinicar");
   reiniciarButtonEl?.addEventListener("click", () => {
-    params.goTo("/welcome");
+    params.goTo("/comojugar");
   });
 
   return div;

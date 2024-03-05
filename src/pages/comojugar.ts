@@ -5,7 +5,7 @@ export function initComoJugar(params) {
       <h2 class="comojugar-title">Presioná jugar y elegí: <br> piedra, papel o tijera <br> antes de que <br> pasen los 5<br>segundos.</h2>
 
 
-      <el-button class="jugar-button">!Jugar!</el-button>
+      <el-button class="jugar-button">¡Jugar!</el-button>
 
 
       <div class="hands-div">  
