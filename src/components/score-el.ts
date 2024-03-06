@@ -12,7 +12,7 @@ class ScoreEl extends HTMLElement {
       .score {
         font-family: "Work Sans", sans-serif;
         width: 250px;
-        height: 230px;
+        height: 215px;
         border: solid;
         border-color: black;
         border-radius: 15px;
@@ -21,7 +21,6 @@ class ScoreEl extends HTMLElement {
         display: flex;
         flex-direction: column;
         align-items: center;
-        justify-content: space-around;
         }
 
         .textoh1{
